@@ -1,0 +1,6 @@
+{"nikhil": "KC", 
+	"naman": "SHARMA",
+	 "is_python_expert": true,
+	  "subjects": [{"name": "maths", "marks": 59}, {"name": "english", "marks": 78}], 
+	"is_java_expert": false, 
+"universe_size": null}
